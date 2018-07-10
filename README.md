@@ -1,5 +1,7 @@
 # React App 国际化模板代码
 
+Internationalizing React App Boilerplate
+
 # 技术
 
 * Universal / Isomorphic React App
