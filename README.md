@@ -1,5 +1,4 @@
 # React App 国际化模板代码
-This is a boilerplate template for the [Internationalizing React Apps article](https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/)
 
 # 技术
 
